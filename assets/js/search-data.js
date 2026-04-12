@@ -521,6 +521,13 @@ ninja.data = [{
           window.open("mailto:%63%68%72%69%73.%72%6F%6F%6E%65%79%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/chris-rooney90/", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
