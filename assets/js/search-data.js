@@ -525,7 +525,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/chrisjrooney", "_blank");
+          window.open("https://github.com/chrisjrooney", "_blank");
         },
       },{
         id: 'social-rss',
