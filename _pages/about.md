@@ -23,5 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an economist and research specialist with 10 years' experience analysing labour markets, economic sectors, and policy questions. I currently work as an independent consultant, delivering economic modelling and quantitative analysis for think tanks and research organisations. Previously, I was a researcher at the Development Policy Research Unit at UCT, where I produced working papers, book chapters and policy briefs for national and international partners.
-I hold a Master's of Commerce in Economic Development from UCT and am proficient in Stata, R, and Excel. My work sits at the intersection of rigorous data analysis and clear communication — translating complex economic findings for government departments, industry bodies, and non-technical audiences.
+I'm an economist and research specialist with 10 years' experience analysing labour markets, economic sectors, and policy questions. I currently work as an independent consultant, delivering economic modelling and quantitative analysis for think tanks and research organisations. 
+
+Previously, I was a researcher at the Development Policy Research Unit at UCT, where I produced working papers, book chapters and policy briefs for national and international partners. I hold a Master's of Commerce in Economic Development from UCT and am proficient in Stata, R, and Excel. My work sits at the intersection of rigorous data analysis and clear communication — translating complex economic findings for government departments, industry bodies, and non-technical audiences.
